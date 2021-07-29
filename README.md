@@ -28,8 +28,6 @@ should return winner symbol (X or O) or null if there is no winner yet
 noMoreAtempts()
 ```
 should return true if there is no more fields to place a x or o
-```
-
 
 
 ![Screenshot 2021-07-29 165803](https://user-images.githubusercontent.com/64478989/127505222-4b487c11-666e-412c-8423-dd24a1fc931d.jpg)
