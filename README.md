@@ -7,7 +7,14 @@ using :
  * Bunifu UI
 
 Now we need to make this real game with backend programming !
-You have a 3 * 3 boolean matrix. When you press any of the buttons 
+
+You have a 3 * 3 boolean matrix.
+
+```
+bool **matrixPatel [3][3]**
+```
+
+When you press any of the buttons 
 in the game box, you must perform a set of the operations mentioned below, such as : 
 
 
