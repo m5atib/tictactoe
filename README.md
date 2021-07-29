@@ -7,6 +7,8 @@ using :
  * Bunifu UI
 
 Now we need to make this real game with backend programming !
+You have a 3 * 3 matrix. When you press any of the buttons 
+in the game box, you must perform a set of the operations mentioned below, such as : 
 
 ```
 getPlayerSymbol()
