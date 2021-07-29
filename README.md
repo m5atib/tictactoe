@@ -7,31 +7,29 @@ using :
  * Bunifu UI
 
 Now we need to make this real game with backend programming !
-You have a 3 * 3 matrix. When you press any of the buttons 
+You have a 3 * 3 boolean matrix. When you press any of the buttons 
 in the game box, you must perform a set of the operations mentioned below, such as : 
 
+
+```
+anyButton_Click(row,col)
+```
+should set 1 as **X** or 0 as **O** after user clicked on any game box buttons then change current player, update marks storage etc.
 ```
 getPlayerSymbol()
 ```
-should return x or o
-
-```
-onPlayerClicked(row, col)
-```
-should properly update class state (change current player, update marks storage etc.)
+should return **X** or **O** then return 1 for **X** player and **0** for O player
 
 ```
 getStatusOfGame()
 ```
-should return winner symbol (x or o) or null if there is no winner yet
+should return winner symbol (X or O) or null if there is no winner yet
 ```
 noMoreAtempts()
 ```
 should return true if there is no more fields to place a x or o
 ```
-setFieldValue(row, col)
-```
-should set matrix[row][col] value (if X || O) or null
+
 
 
 ![Screenshot 2021-07-29 165803](https://user-images.githubusercontent.com/64478989/127505222-4b487c11-666e-412c-8423-dd24a1fc931d.jpg)
