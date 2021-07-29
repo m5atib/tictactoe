@@ -11,7 +11,7 @@ Now we need to make this real game with backend programming !
 You have a 3 * 3 boolean matrix.
 
 ```
-bool **matrixPatel [3][3]**
+bool matrixPatel [3][3];
 ```
 
 When you press any of the buttons 
