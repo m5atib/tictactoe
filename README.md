@@ -15,7 +15,7 @@ boolean matrixPatel [3][3];
 ```
 
 When you press any of the buttons 
-in the game box, you must perform a set of the operations mentioned below, such as : 
+in the game box, you must perform a set of the operations in **PlayingPnl.cs** code mentioned below, such as : 
 
 
 ```
