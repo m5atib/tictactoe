@@ -18,7 +18,7 @@ should set 1 as **X** or 0 as **O** after user clicked on any game box buttons t
 ```
 getPlayerSymbol()
 ```
-should return **X** or **O** then return 1 for **X** player and **0** for O player
+should return **X** or **O** 
 
 ```
 getStatusOfGame()
@@ -27,7 +27,7 @@ should return winner symbol (X or O) or null if there is no winner yet
 ```
 noMoreAtempts()
 ```
-should return true if there is no more fields to place a x or o
+should return true if there is no more fields to place a X or O
 
 
 ![Screenshot 2021-07-29 165803](https://user-images.githubusercontent.com/64478989/127505222-4b487c11-666e-412c-8423-dd24a1fc931d.jpg)
