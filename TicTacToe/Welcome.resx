@@ -118,6 +118,30 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="gunaAdvenceButton1.CheckedImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAJRJREFUSEvt
+        lD0OgCAMRrmNV3LyFA5uuntlY/1IS1JjgFZ04yUdaOF9Cf6ETudfiGhFLbL8FohnVOREDdIuwtuJZJkH
+        e7R8knYVPlIJwFzLR2mb4GOFAMyS/EC55BE+mglAP8mbEeUd9DcetyPKJ5jtvOXdFZmAOIW4H7IZiHWI
+        +TV1AbEOMX1obiCOIf/8KjodIyFcXjs6JgFJyZwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="gunaAdvenceButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAJRJREFUSEvt
+        lD0OgCAMRrmNV3LyFA5uuntlY/1IS1JjgFZ04yUdaOF9Cf6ETudfiGhFLbL8FohnVOREDdIuwtuJZJkH
+        e7R8knYVPlIJwFzLR2mb4GOFAMyS/EC55BE+mglAP8mbEeUd9DcetyPKJ5jtvOXdFZmAOIW4H7IZiHWI
+        +TV1AbEOMX1obiCOIf/8KjodIyFcXjs6JgFJyZwAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="gunaAdvenceButton1.OnHoverImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAJRJREFUSEvt
+        lD0OgCAMRrmNV3LyFA5uuntlY/1IS1JjgFZ04yUdaOF9Cf6ETudfiGhFLbL8FohnVOREDdIuwtuJZJkH
+        e7R8knYVPlIJwFzLR2mb4GOFAMyS/EC55BE+mglAP8mbEeUd9DcetyPKJ5jtvOXdFZmAOIW4H7IZiHWI
+        +TV1AbEOMX1obiCOIf/8KjodIyFcXjs6JgFJyZwAAAAASUVORK5CYII=
+</value>
+  </data>
   <data name="gunaAdvenceButton2.CheckedImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAXFJREFUSEvt
@@ -152,30 +176,6 @@
         QrYYS+HN0TeEwy6SLi441yPq2GGPaBfFnaNBKPRfZGDxPDDTiKOjX7Iu8pfFi5hszqrj6cGi+TbaTxhY
         wJJPM1BbxksUuoN1l8ZD8zxeoXboEa46X8MaamO9oMj/sUtgYAuTjTeKyT/XCQzO4SGe4yeK6fzhzIgU
         Cl8aK2Zohngp1AAAAABJRU5ErkJggg==
-</value>
-  </data>
-  <data name="gunaAdvenceButton1.CheckedImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAJRJREFUSEvt
-        lD0OgCAMRrmNV3LyFA5uuntlY/1IS1JjgFZ04yUdaOF9Cf6ETudfiGhFLbL8FohnVOREDdIuwtuJZJkH
-        e7R8knYVPlIJwFzLR2mb4GOFAMyS/EC55BE+mglAP8mbEeUd9DcetyPKJ5jtvOXdFZmAOIW4H7IZiHWI
-        +TV1AbEOMX1obiCOIf/8KjodIyFcXjs6JgFJyZwAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="gunaAdvenceButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAJRJREFUSEvt
-        lD0OgCAMRrmNV3LyFA5uuntlY/1IS1JjgFZ04yUdaOF9Cf6ETudfiGhFLbL8FohnVOREDdIuwtuJZJkH
-        e7R8knYVPlIJwFzLR2mb4GOFAMyS/EC55BE+mglAP8mbEeUd9DcetyPKJ5jtvOXdFZmAOIW4H7IZiHWI
-        +TV1AbEOMX1obiCOIf/8KjodIyFcXjs6JgFJyZwAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="gunaAdvenceButton1.OnHoverImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAJRJREFUSEvt
-        lD0OgCAMRrmNV3LyFA5uuntlY/1IS1JjgFZ04yUdaOF9Cf6ETudfiGhFLbL8FohnVOREDdIuwtuJZJkH
-        e7R8knYVPlIJwFzLR2mb4GOFAMyS/EC55BE+mglAP8mbEeUd9DcetyPKJ5jtvOXdFZmAOIW4H7IZiHWI
-        +TV1AbEOMX1obiCOIf/8KjodIyFcXjs6JgFJyZwAAAAASUVORK5CYII=
 </value>
   </data>
 </root>
