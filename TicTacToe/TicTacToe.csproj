@@ -126,6 +126,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\ic_access_time_24px.png" />
+    <None Include="Resources\ic_important_devices_48px.png" />
     <None Include="Resources\ic_access_time_24px1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
